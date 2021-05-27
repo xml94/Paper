@@ -22,7 +22,7 @@ Active Learning
 
 Data Augmentation
 
-Meta Learning
+Meta Learning, Few-Shot Learning, Zero-Shot Leaning
 
 Multimodal
 
