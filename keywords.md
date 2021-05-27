@@ -4,6 +4,10 @@ Image Generation
 
 Style Transfer
 
+Reinforce Learning, Intelligent Computing
+
+Time-series, Temporary
+
 Transfer Learning
 
 Domain Adaptation
