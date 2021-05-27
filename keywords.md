@@ -26,4 +26,6 @@ Meta Learning, Few-Shot Learning, Zero-Shot Leaning
 
 Multimodal
 
+Representation Learning
+
 Granular Computing
