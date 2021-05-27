@@ -10,6 +10,8 @@ Time-series, Temporary
 
 Transfer Learning
 
+Normalization
+
 Domain Adaptation, Unsupervised Domain Adaptation, Zero-Shot Domain Adaptation
 
 Open World Recognition, Open Set Recognition, Novelty Detection
