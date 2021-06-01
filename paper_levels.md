@@ -17,10 +17,11 @@
 
 * **Remove or Loose Assumptions** Methods or algorithms or applications are subjected
   to some assumptions, such as machine learning splits the dataset into
-  training and testing data and assume that the distribution are same. But in
+  training and testing data and assume that the distributions are same. But in
   many applications, the assumption is not satisfied. By removing the assumption,
   we arrive domain adaptation in which the distribution could be different between
   training and testing domains.
     
 * **Creating New Methods From a Simpler Idea** Many machine learning algorithms
-    are from very simpler intuitions. 
+  are from very simpler intuitions. Starting from an intuition, design everything
+  carefully and then we can arrive to a good position.
