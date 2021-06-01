@@ -1,5 +1,5 @@
-Ctrl+D=Ctrl+C+ Ctrl+V
-Ctrl+G, Ctrl+Shift+G
+Ctrl+D=Ctrl+C + Ctrl+V
+Ctrl+G, Ctrl + Shift + G
 Ctrl+Alt+V:为了保持内容格式的一致，选择性粘贴也是我们常用的一种快捷键之一
 ctrl+【 或 】缩放文字
 F4,重复上一步
