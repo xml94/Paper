@@ -22,7 +22,7 @@
 ## 哲理篇
 
 * 当你凝视深渊时，深渊也会凝视你 —— 尼采
-* To be or not to be; that is a question —— 雨果
+* To be or not to be; that is a question —— 莎士比亚
 * 
 
 
