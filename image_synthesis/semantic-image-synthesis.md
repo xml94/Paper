@@ -3,6 +3,7 @@
 Semantic image synthesis aims to produce image given semantic segmentation,
 which can also be used by image editing and image manipulation.
 
+
 ## Related Applications
 * **Image Editing** aims to change one thing's label or style.
 * **Image Manipulation**
