@@ -7,4 +7,5 @@ research. So it includes several topics.
 * Hotkeys when doing slides.
 * Ideas and how to make a new idea.
 * Keywords in computer vision field.
+* How
 * ...
