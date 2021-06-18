@@ -1,3 +1,7 @@
+Multitask
+
+Info fusion and multimodal fusion
+
 Image Translation
 
 Image Generation
