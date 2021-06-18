@@ -1,4 +1,4 @@
-Multitask
+Multitask Learning
 
 Info fusion and multimodal fusion
 
