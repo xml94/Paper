@@ -2,6 +2,8 @@ Multitask Learning
 
 Info fusion and multimodal fusion
 
+Domain-invariant feature learning
+
 Image Translation
 
 Image Generation
