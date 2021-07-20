@@ -4,6 +4,8 @@ Info fusion and multimodal fusion
 
 Domain-invariant feature learning
 
+Multi-label learning 多标记学习
+
 Image Translation
 
 Image Generation
