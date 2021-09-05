@@ -1,3 +1,5 @@
+To show the math, please add this extension: https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related
+
 # 字体 typeface in latex
 
 # Basic Glossary
