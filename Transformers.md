@@ -16,11 +16,11 @@
 * Is there any other paradigm to use transformer than combining CNN and transformer?
 * If we want to combine CNN and transformer, what should we persist and change? Can I make a taxonomy for them?
 * Basic insights from CNN and transformer
-  * Hierarchical feature
+  * Hierarchical feature and multi-scale
   * Tranlate invariance
-  * Feature evolution
+  * Feature evolution and depth of basic blocks
   * Global dependency
-  * Optimization issue
+  * Optimization issue and residual connection
 * How to make images into sequence?
   * Can we use sequence but keep the spatial info for images?
   * The difference of sequence between NLP and CV?
