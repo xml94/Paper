@@ -24,6 +24,8 @@
    * 2017 Improved regularization of convolutional neural networks with cutout
    * 2019 ICCV CutMix Regularization Strategy to Train Strong Classifiers with Localizable Features
    * 2020 NIPS Unsupervised Data Augmentation for Consistency Training
+* Questions
+  * The difference between consistency learning and contrasting learning (metric learning).
 
 ## Self Training
 * In general, self training tries to train a network in labeled data, then generate pseudo label for the unlabeled dataset, latter uses the pseudo label to train the network again, finnaly use the labeled data to train again (may iteratively do several times).
