@@ -1,5 +1,5 @@
 # Self-Supervised Learning
-* Self-supervised learning aims to learn a better feature space with. To achieve it, a pre-task should be defined for the dataset, where the pre-task is not related with the label, label-agnostic task. For example, delete one image patch and then predict the patch (image inpainting), randomly change the place of image patch and the pre-task is predicting the correct image patch location (jigsaw puzzle). Self-supervised learning can be used in labeled dataset and also unlabled dataset.
+* Self-supervised learning aims to learn a better feature space with. To achieve it, a pre-task should be defined for the dataset, where the pre-task is not related with the label, label-agnostic task. For example, delete one image patch and then predict the patch (image inpainting), randomly change the place of image patch and the pre-task is predicting the correct image patch location (jigsaw puzzle). In general, self-supervised learning is used in unlabled data, but also can be used in labeled dataset, or we can say the self-supervised learning does not think about the label.
 * Paper list
   * 2015 ICCV Unsupervised Visual Representation Learning by Context Prediction
   * 2016 ECCV Unsupervised learning of visual representations by solving jigsaw puzzles
