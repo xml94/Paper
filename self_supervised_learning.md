@@ -5,6 +5,7 @@
   * 2016 ECCV Unsupervised learning of visual representations by solving jigsaw puzzles
   * 2018 ICLR Unsupervised representation learning by predicting image rotations
   * 2019 CVPR Revisiting self-supervised visual representation learning
+  * 2019 ICCV S4L Self-Supervised Semi-Supervised Learning
   * 2021 SiT Self-supervised vIsion Transformer
 * Key issues
   * How to define a good pre-task
