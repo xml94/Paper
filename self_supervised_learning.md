@@ -46,6 +46,8 @@
   * Auto-encoder used the reconstruction loss.
   * Variants of auto-encoder, such as denoising auto-encoder, VAE.
   * GAN.
+* Paper List
+  * 2015 (DCGAN) Unsupervised representation learning with deep convolutional generative adversarial networks
 
 # Others
   * 2017 ICLR mixup Beyond Empirical Risk Minimization
