@@ -10,6 +10,7 @@
 * Key issues
   * How to define a good pre-task
   * How to choose the basic model (architecture)
+  * There are so many kinds of pre-task, can we have a integrated viewpoint to see the pre-tasks?
   * Self-supervised learning alone is far inferior to the supervised learning, but why and how can we improve it?
  
  # Semi-supervised learning
