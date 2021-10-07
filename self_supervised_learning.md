@@ -24,9 +24,6 @@
  ## Consistency Learning
  * The basic assumption behind the consistency learning is that we change the input a little, the output should be similar or same as we want to have a robust network. For example, adding gaussian noise to an image would not change the label of the image. So we use the consistency of output when changing the input a little bit to make a loss function. The consistency is also called as perturbation method in terms of the input.
  * Paper list
-   * 2017 ICLR mixup Beyond Empirical Risk Minimization
-   * 2017 Improved regularization of convolutional neural networks with cutout
-   * 2019 ICCV CutMix Regularization Strategy to Train Strong Classifiers with Localizable Features
    * 2020 NIPS Unsupervised Data Augmentation for Consistency Training
 * Questions
   * The difference between consistency learning and contrasting learning (metric learning)
@@ -49,3 +46,8 @@
   * Auto-encoder used the reconstruction loss.
   * Variants of auto-encoder, such as denoising auto-encoder, VAE.
   * GAN.
+
+# Others
+  * 2017 ICLR mixup Beyond Empirical Risk Minimization
+  * 2017 Improved regularization of convolutional neural networks with cutout
+  * 2019 ICCV CutMix Regularization Strategy to Train Strong Classifiers with Localizable Features
