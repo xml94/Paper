@@ -13,6 +13,7 @@
   * There are so many kinds of pre-task, can we have a integrated viewpoint to see the pre-tasks?
   * Self-supervised learning alone is far inferior to the supervised learning, but why and how can we improve it?
 * Pre-tasks (image level or patch level)
+  * The core is not using label, or label-agnostic task
   * Image superresolution
   * Image inpainting
   * Image reconstruction
