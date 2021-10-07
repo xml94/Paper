@@ -12,6 +12,12 @@
   * How to choose the basic model (architecture)
   * There are so many kinds of pre-task, can we have a integrated viewpoint to see the pre-tasks?
   * Self-supervised learning alone is far inferior to the supervised learning, but why and how can we improve it?
+* Pre-tasks (image level or patch level)
+  * Image superresolution
+  * Image inpainting
+  * Image reconstruction
+  * Image Jigsaw
+  * Image rotation prediction
  
  # Semi-supervised learning
 * Semi-supervised learning aims to use labeled data and unlabled data, different from only use labeled data or unlabeled data.
