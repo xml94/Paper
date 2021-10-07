@@ -43,6 +43,7 @@
 * Pre-training aims to learn a good feature space in the unlabeled dataset with unsupervised learning and then fintuning the learned network in the labeled dataset. In the fintuning stage, the feature extractor can be froozed and only the classifier is learned, or finetune both extractor and the classifier.
 * Basic unsupervised learning algorithms can be leveraged.
   * Auto-encoder used the reconstruction loss.
-  * Variants of auto-encoder, such as denoising auto-encoder.
+  * Variants of auto-encoder, such as denoising auto-encoder, VAE.
+  * GAN.
 
 ## Data augmentation
