@@ -1,7 +1,7 @@
 ## Basic question before reading papers
 * What is the domain adaptation and How to classify the domain adaptation??
-* what is the classic application?
-* Waht is the classica dataset?
+* What is the classic application?
+* What is the classica dataset?
 * How to classify the method to do domain adaptation?
 
 
