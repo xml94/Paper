@@ -23,5 +23,4 @@
   training and testing domains.
     
 * **Creating New Methods From a Simpler Idea** Many machine learning algorithms
-  are from very simpler intuitions. Starting from an intuition, design everything
-  carefully and then we can arrive to a good position.
+  are from very simpler intuitions. Starting from an intuition, design everything carefully, and then we can arrive to a good position.
