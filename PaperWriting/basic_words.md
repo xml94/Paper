@@ -28,6 +28,11 @@
 * 转折关系
   * but
   * however
+* 递进关系
+  * furthermore
+  * moreover
+  * further
+  * 
 * 表示目的
 * 表示比较
   * higher, lower
