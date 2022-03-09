@@ -19,7 +19,7 @@
 * suppose, assume, hypothesize
 * get, obtain, secure, receive, acquire 
 * denote, suggest, indicate, represent, 
-* point out, empasize
+* point out, emphasize
 * do, perform,
 * give, provide
 * use, adopt, utilize, leverage, make use of, employ, 
@@ -30,28 +30,26 @@
 * as a consequence, therefore, hence, thus
 * due to, because of
 * attribute, responsible, ascribe,
-* resort to
-* based on, rest on
-* conditioned on
-* contribute, surpass,  
+* resort to, based on, rest on, conditioned on
+* contribute, surpass, outperform
 * decent, progress
 * competing output
 * beneficial
 * ease, mitigate, enhance, relieve, 
 * facilitate, alleviate
-* enhance, improve, raise, 
-* gain, increase, promote
-* suffer from, degrade, 
-* impede, hinder, hamper, cause
+* enhance, improve, raise, gain, increase, promote
+* suffer from, degrade, impede, hinder, hamper, cause
 * bad, worse, worst
-* minimize, reduce, decline, decrease
-* impair, lessen, degenerate
-* deficiency, weak point, disadvantage, 
-* unsatisfied, unsatisfactory,
+* minimize, reduce, decline, decrease, impair, lessen, degenerate, deminish, 
+* deficiency, weak point, disadvantage, unsatisfied, unsatisfactory,
 * to sum up, to summarize, to conclude
 * defer, postpone, delay
 * allow, permit, admit
 * demand, require, request, ask
+* maintain, keep, save,
+* confirm, validate, verify, prove, 
+* signify, 
+* satisfy, 
 
 ## 形容词
 * problematic, straightforward,
@@ -63,12 +61,17 @@
 * compulsory, mandatory
 * complex, complicated, sophisticate, comprehensive
 * many, a variety of, considerable, substantial,
-* decent, promising, comparable, encouraging
+* decent, promising, comparable, encouraging, striking, 
 * beneficial, expressive, impressive, competitive,
 * higher, lower, senior to, inferior to,
 * significant, fundamental, essential
 * vague, ambiguous
-* pioneering, previous, sminarl work
+* pioneering, previous, seminal work, contemporary, existing
+* insufficient
+* extensive,
+* consistent, 
+* holistic
+* 
 
 ## 副词
 * intuitively, effectively, inevitably
@@ -94,4 +97,7 @@
 * percentage, proportion
 * standard, criterion, norm, rule
 * basis, base, foundation
-* 
+* prototype
+* structure, framework, outline, architecture, 
+* strategy, scheme, technique, skill, approach, way, means, scenario
+* discrepancy, conflict,  
