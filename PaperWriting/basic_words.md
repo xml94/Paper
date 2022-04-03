@@ -7,7 +7,7 @@
 * represent, unveil, indicate, 
 * motivate, inspire, enlighten
 * highlight, emphasis, tress, suppose
-* expect
+* expect, assume, desire, 
 * differ, diverse, 
 * equal, identical, same, similar
 * combine, fuse, merge, aggregate, incorporate
@@ -25,7 +25,7 @@
 * use, adopt, utilize, leverage, make use of, employ, 
 * raise, put forward, present, construct, deliver
 * carry out, conduct, implement, design,
-* result in, lead to, render, generate, cause, incur, 
+* result in, lead to, render, generate, cause, incur, induce
 * since, as, in that, because, 
 * as a consequence, therefore, hence, thus
 * due to, because of
@@ -35,8 +35,7 @@
 * decent, progress
 * competing output
 * beneficial
-* ease, mitigate, enhance, relieve, 
-* facilitate, alleviate
+* ease, mitigate, enhance, relieve, facilitate, alleviate
 * enhance, improve, raise, gain, increase, promote
 * suffer from, degrade, impede, hinder, hamper, cause
 * bad, worse, worst
