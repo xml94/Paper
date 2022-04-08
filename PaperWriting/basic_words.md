@@ -25,7 +25,7 @@
 * use, adopt, utilize, leverage, make use of, employ, 
 * raise, put forward, present, construct, deliver
 * carry out, conduct, implement, design,
-* result in, lead to, render, generate, cause, incur, induce
+* result in, lead to, render, generate, cause, incur, induce, stem from
 * since, as, in that, because, 
 * as a consequence, therefore, hence, thus
 * due to, because of
@@ -49,6 +49,7 @@
 * confirm, validate, verify, prove, 
 * signify, 
 * satisfy, 
+* in line with, conform, 
 
 ## 形容词
 * problematic, straightforward,
@@ -99,4 +100,6 @@
 * prototype
 * structure, framework, outline, architecture, 
 * strategy, scheme, technique, skill, approach, way, means, scenario
-* discrepancy, conflict,  
+* discrepancy, conflict, 
+* coefficient, value, hyper-parameter
+* 
